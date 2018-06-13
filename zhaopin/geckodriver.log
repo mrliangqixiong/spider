@@ -1,0 +1,27 @@
+1520237763264	geckodriver	INFO	Listening on 127.0.0.1:59557
+1520237766434	geckodriver::marionette	INFO	Starting browser E:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520237820105	geckodriver	INFO	Listening on 127.0.0.1:59621
+1520237823144	geckodriver::marionette	INFO	Starting browser E:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520237825619	Marionette	INFO	Enabled via --marionette
+1520237830139	Marionette	INFO	Listening on port 59629
+1520237830998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520241267725	geckodriver	INFO	Listening on 127.0.0.1:60782
+1520241270797	geckodriver::marionette	INFO	Starting browser E:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520241274389	Marionette	INFO	Enabled via --marionette
+1520241281031	Marionette	INFO	Listening on port 60791
+1520241281192	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
